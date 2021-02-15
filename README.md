@@ -1,2 +1,2 @@
 # MY-SHITTY-WEBSITE
-website I staerted developing in the very beginning of my programming journey.
+website I started developing in the very beginning of my programming journey.
