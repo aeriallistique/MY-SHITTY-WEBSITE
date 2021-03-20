@@ -19,7 +19,6 @@ let options = {
     function makeArrowVisible(entries){
         entries.forEach(entry=>{
             if(entry.isIntersecting){
-                console.log(`yup`)
                 const arrow = document.getElementById('arrow');
                 arrow.classList.toggle('display-on')
             }
@@ -101,3 +100,12 @@ imageSlider.addEventListener('transitionend', ()=>{
         imageSlider.style.transform='translateX(' + (-size * counter) + 'px)';
     }
 });
+
+
+
+
+
+
+
+
+
