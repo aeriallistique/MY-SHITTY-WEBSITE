@@ -5,9 +5,9 @@
             
 		}
 
- body{background: rgb(218,182,242);*/
-background: linear-gradient(0deg, rgba(218,182,242,1) 0%, rgba(150,109,208,1) 55%, rgba(190,94,191,1) 95%);
-}
+ body{background: rgb(218,182,242);
+        background: linear-gradient(0deg, rgba(218,182,242,1) 0%, rgba(150,109,208,1) 55%, rgba(190,94,191,1) 95%);}
+
 body{
     background-color: antiquewhite;
     -moz-overflow:hidden;
